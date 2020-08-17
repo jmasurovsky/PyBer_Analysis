@@ -37,7 +37,7 @@ Figure 1. *Total Fare by City Type*
 
 ## PyBer Summary
 
-Some disparities in the results can be described by 
+Some disparities in the results can be described by distance in trips in rural areas are much greater than suburban and urban areas, which see shorter trips. This can explain the increase in fare per ride in rural areas while being the lowest total fares as compared to urban areas. Another disparity could  explain the spike in data from a week before March by the weather changing seasons to increasing temperatures, therefore more people are taking a greater number of trips. The ratio of total drivers to total rides is greater in urban areas than suburban and rural areas and could be explained by a larger population living urban areas.
 
 
 
