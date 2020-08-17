@@ -6,7 +6,7 @@ As a data analyst for PyBer, a ride sharing app company, an exlporatory analysis
 
 ## Resources
 
-Data source: city_data.csv; ride_data.csv
+Data sources: city_data.csv; ride_data.csv
 
 Software: Python 3.7.6, Jupyter Notebooks
 
